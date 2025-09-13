@@ -2,7 +2,10 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-FFB000?logo=power-bi&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-Salam — This repository contains everything you need to build an interactive **Amazon Sales Dashboard** using **Power BI Desktop**. The dashboard demonstrates typical retail KPIs, time-series analysis, product/category performance, geo-analysis, and fulfillment/channel insights using a sample Amazon-like dataset.
+## 🔍 Demo / Preview 
+![1752846553761](https://github.com/user-attachments/assets/6a4c4341-0db4-46df-988e-7f85cc4eb167)
+
+This repository contains everything you need to build an interactive **Amazon Sales Dashboard** using **Power BI Desktop**. The dashboard demonstrates typical retail KPIs, time-series analysis, product/category performance, geo-analysis, and fulfillment/channel insights using a sample Amazon-like dataset.
 
 ---
 
@@ -10,12 +13,7 @@ Salam — This repository contains everything you need to build an interactive *
 - **Name:** `amazon-sales-dashboard-using-powerbi`
 - **Purpose:** Example project to showcase how to build a sales analytics dashboard (Power BI) for Amazon-style e-commerce sales data.
 - **Audience:** Data analysts, BI developers, students, portfolio projects.
-
----
-
-## 🔍 Demo / Preview
-*(Add screenshots or a GIF here — e.g., `media/dashboard-preview.gif`)*
-
+- 
 ---
 
 ## ⭐ Features
